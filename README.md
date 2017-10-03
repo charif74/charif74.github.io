@@ -23,3 +23,9 @@ Je veux développer des compétences en...
 ## Demain
 
 Mon projet professionnel, c'est...
+github 
+git status
+git add
+git commit
+git push
+
