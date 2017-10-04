@@ -2,7 +2,7 @@
 
 ## Qui suis-je ?
 
-Je m'appelle...
+Je m'appelle Addal.
 
 Je suis passioné par...
 
