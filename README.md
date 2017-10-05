@@ -1,3 +1,7 @@
+---
+permalink: index.html
+---
+
 # username
 
 ## Qui suis-je ?
@@ -27,5 +31,5 @@ github
 git status
 git add
 git commit
-git push
+git pushmalink
 
