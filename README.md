@@ -33,3 +33,4 @@ git add
 git commit
 git pushmalink
 
+[Contact](index.html)
